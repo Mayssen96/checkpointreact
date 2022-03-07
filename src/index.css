@@ -1,0 +1,25 @@
+
+.background {
+  background-color: rgb(229, 211, 247);
+  
+}
+.js {
+  background-color: rgb(145, 62, 134);
+  
+}
+
+.new {
+  text-align: center;
+  justify-content: center;
+  margin: 30px 200px;
+  border-radius: 20px;
+  
+}
+.form1{
+  font-size: larger;
+  background-color: black;
+}
+.form2{
+  background-color: rgb(243, 168, 168);
+  text-align: center;
+}
